@@ -1,0 +1,11 @@
+Pulp Fiction,                 5 ,  28
+Lord Of The Rings,         2 ,  18
+The Revenant,                 4 ,  18
+Avengers Endgame,         5 ,  16
+Dragon Ball Super,         4 ,  35
+Inception,                 3 ,  15
+Logan,                         4 ,  19
+The Wolf Of Wall Street,         3 ,  13
+Spiderman-3,                 2 ,  9
+The Persuit Of Happiness, 4 ,  15
+Hangover,                 4 ,  14

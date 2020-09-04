@@ -1,0 +1,6 @@
+Name:  Prajwol
+Movie rented is:  Pulp Fiction
+Price per movie:  5
+Total number of movie you rented:  2
+Your total amount is :  10.0 dollars
+Renting Date2019-05-03
